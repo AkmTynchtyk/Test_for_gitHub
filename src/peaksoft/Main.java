@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Emi men AkmTynchtyk menen ozgorttum!");
 
         System.out.println("Men AkmTynchtyk menen feature/add_sout3 dep jany branch achtym da ushul souttu koshtum");
+        System.out.println("Men AkmTynchtyk menen feature/add_sout3 dep jany branch achkan bolchum oshonu ele koldonup 4-souttu koshtum");
     }
 }
